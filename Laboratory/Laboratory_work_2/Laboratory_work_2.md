@@ -205,15 +205,15 @@ _<span>- Якісна реалізація сторінки помилки 404.<
 
 ### Контрольні запитання
 
-1.  **Що таке інтерактивний прототип і чим він відрізняється від статичного макета?**
+**1.  Що таке інтерактивний прототип і чим він відрізняється від статичного макета?**
 
 Інтерактивний прототип — це клікабельна модель інтерфейсу, що імітує роботу реального додатку (переходи, натискання). Статичний макет — це нерухоме зображення екрана. Прототип показує взаємодію, макет — візуал.
 
-2.  **Хто такий QA-спеціаліст і на якому етапі він підключається до роботи?**
+**2.  Хто такий QA-спеціаліст і на якому етапі він підключається до роботи?**
 
 QA (Quality Assurance) спеціаліст — тестувальник, що шукає помилки. Найактивніше працює на етапі тестування (Testing) після написання коду, але в ідеалі залучається ще на етапі аналізу вимог для складання тест-планів.
 
-3.  **Які інструменти (програми) найчастіше використовують сучасні UI/UX дизайнери?**
+**3.  Які інструменти (програми) найчастіше використовують сучасні UI/UX дизайнери?**
 
 Figma (основний), Sketch, Adobe XD, Adobe Photoshop/Illustrator.
 
@@ -237,10 +237,10 @@ Figma (основний), Sketch, Adobe XD, Adobe Photoshop/Illustrator.
 
 Ризик створити продукт, який нікому не потрібен або яким незручно користуватися. Наслідки: дороге переписування коду (коли помилки логіки знайдуть вже після програмування) та втрата користувачів після релізу через поганий User Experience.
 
+## Conclusions
 
-
-
-
+&nbsp;&nbsp;&nbsp;In this practical work, I deepened my understanding of the Software Development Life Cycle (SDLC) and the critical roles that contribute to building successful digital products. I learned how to effectively integrate specialized experts, such as UX writers and motion designers, into different stages of development to enhance the overall user experience. By reverse-engineering a standard mobile application, I analyzed the logical progression from initial requirements to the final user interface, realizing why UX planning must always precede visual design. 
+&nbsp;&nbsp;&nbsp;Additionally, exploring professional portfolios on platforms like Behance and Dribbble helped me develop my professional observation skills and understand how designers solve complex problems, such as organizing data on dashboards or creating interactive navigation. Overall, I concluded that high-quality design is not just about aesthetics but requires a balance of technical understanding, logical structure, and effective communication with the development team.
 
 
 
