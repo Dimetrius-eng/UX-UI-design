@@ -5,7 +5,10 @@
 
 <div align="justify"> 
 
-<img src="1.jpg" width="700">
+<p align="center">
+  <img src="1_.png" width="45%" />
+  <img src="mobile_nav.jpg" width="45%" />
+</p>
  
 - **Чим відрізняється вебсайт від вебзастосунку?**
 
