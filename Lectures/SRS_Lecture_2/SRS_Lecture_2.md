@@ -6,7 +6,7 @@
 <div align="justify"> 
 
 <p align="left">
-  <img src="1_.png" width="200" />
+  <img src="1.png" width="200" />
   <img src="2.png" width="200" style="margin-left: 20px;" />
 </p>
  
