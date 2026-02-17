@@ -5,9 +5,9 @@
 
 <div align="justify"> 
 
-<p align="center">
-  <img src="1_.png" width="45%" />
-  <img src="mobile_nav.jpg" width="45%" />
+<p align="left">
+  <img src="1_.png" width="200" />
+  <img src="2.png" width="200" style="margin-left: 20px;" />
 </p>
  
 - **Чим відрізняється вебсайт від вебзастосунку?**
