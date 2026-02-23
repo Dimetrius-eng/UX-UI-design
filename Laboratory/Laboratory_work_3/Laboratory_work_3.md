@@ -148,6 +148,8 @@ _Словник базових понять англ. мовою_
   
 **_Зафіксувати відповіді у FigJam (sticky notes)._**
 
+<img src = "6.png" size = "400 px">
+
 [Посилання на дошку FigJam](https://www.figma.com/board/aQcOWxeTycWDsSxUdgyEIL/Untitled?node-id=0-1&p=f&t=cMjF8zOCyBOItc6b-0)
 
 ### Контрольні запитання
