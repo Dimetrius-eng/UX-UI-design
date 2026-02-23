@@ -92,7 +92,7 @@ _Словник базових понять англ. мовою_
 
 **3. Порівняти можливості інструментів:**
 
-| Критерій | Figma | FigJam|
+| Критерій | Figma | FigJam |
 | :--- | :--- | :--- |
 | Основне призначення | Професійне проєктування інтерфейсів, створення точних макетів та інтерактивних систем | Колективний «штурм» проблем, швидке візуальне фіксування ідей та проведення досліджень |
 | Компоненти | Робота зі складними бібліотеками (UI Kits), сітками та точними параметрами елементів | Прості віджети, базові форми та стрілки для побудови логічних схем |
@@ -156,10 +156,24 @@ _Словник базових понять англ. мовою_
 
 **1. Що таке Empathy в UX?**
 
+Емпатія в дизайні — це здатність побачити світ очима іншої людини, навіть якщо її досвід кардинально відрізняється від вашого. У UX важливо не просто жаліти користувача, а буквально відчувати його «біль» під час взаємодії з продуктом. Це допомагає дизайнеру приймати обґрунтовані рішення, базуючись на реальних потребах людей, а не на власних припущеннях.
+
 **2.** ***Чому UX-дизайнер досліджує поведінку, а не думки?**
+
+Це один із ключових інсайтів UX-досліджень, адже люди говорять одне, а роблять зовсім інше. Саме тому UX не дорівнює простому опитуванню. Дизайнер досліджує саме поведінку, 
+щоб знайти справжню причину проблеми (root cause), а не просто «лікувати симптоми» (наприклад, перемальовувати кнопку, яка не працює через погану логіку). Аналіз дій користувача дозволяє оптимізувати шлях користувача 
+(user flow) як алгоритм, прибираючи вузькі місця, про які сам користувач може навіть не здогадуватися.
 
 **3.** ****Чим відрізняється інтерв'ю (User Interview) від простого спостереження (Field Studies)?**
 
+| Характеристика | Інтерв'ю (User Interview) | Спостереження (Field Studies) |
+| :--- | :--- | :--- |
+| Суть методу | Дизайнер ставить відкриті питання, щоб вивчити досвід та потреби | Дослідження реальної поведінки у звичному середовищі без втручання |
+| Що виявляє | Дозволяє зрозуміти мотивацію, цілі та суб'єктивні проблеми користувача | Допомагає знайти приховані патерни, про які люди не кажуть на інтерв'ю |
+| Результат | Цінні інсайти на старті проєкту щодо задач продукту | Розуміння реального контексту використання (наприклад, що руки в борошні або навколо галасливо) |
+
 ## Conclusions
 
-
+&nbsp;&nbsp;&nbsp;In this laboratory work, I explored the functional differences between Figma and FigJam, learning to use each tool at the appropriate stage of the design process. While Figma is essential for high-fidelity UI design and prototyping, FigJam proved to be an ideal environment for the initial stages of Design Thinking, such as brainstorming and research.  
+&nbsp;&nbsp;&nbsp;The core focus of this work was the Empathy stage. I learned that effective UX design does not begin with visual elements like buttons, but with a deep understanding of the user’s needs and motives. By conducting Domain Research and User Interviews, I moved beyond personal assumptions to identify real-world problems. The research conducted for the "Fitness and Social Training" app allowed me to identify key pain points for different user personas—from tech-savvy students to elderly users—ensuring a more accessible and user-centered final product.
+&nbsp;&nbsp;&nbsp;Ultimately, this laboratory work demonstrated that a successful digital product is built on a foundation of empathy and evidence-based decisions, rather than subjective taste.
