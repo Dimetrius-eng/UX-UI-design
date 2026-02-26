@@ -63,3 +63,35 @@ _Словник базових понять англ. мовою_
    
 <span>- Титульний аркуш, тема та мета роботи</span>  
 <span>- Відповіді до завдань для попередньої підготовки</span>
+
+## Хід роботи
+
+### Практичне завдання №1. Етап Define. Створення User Stories (базовий рівень)
+
+**1. Розглянути додаткові навчальні матеріали та приклади:**
+
+- [Як писати User Stories, щоб було зрозуміло всім](https://iampm.club/ua/blog/yak-pisati-user-stories-shhob-bulo-zrozumilo-vsim/) (рекомендовано усім)
+- [User story – що це, для чого і чи можна обійтися без них?](https://brainrain.com.ua/uk/user-story/)
+- [User Story в ІТ-проектах: Як писати вимоги з точки зору користувача](https://flexi-project.com/uk/user-story-%D0%B2-%D1%96%D1%82-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D1%85-%D1%8F%D0%BA-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B8-%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B7-%D1%82%D0%BE%D1%87%D0%BA/)
+- [How to write good User Stories in Agile](https://www.youtube.com/watch?v=7hoGqhb6qAs)
+- [20 User story examples and best practices](https://www.justinmind.com/blog/examples-user-story-best-practices/) (рекомендовано усім)
+  
+**2. На базі сформованої ідеї та етапу Empathy (див. ЛР №3) у FigJam сформуйте 4-5 User Stories для вашого продукту.**
+
+Формат:  
+Я як [роль] хочу [дія], щоб [користь]
+
+<img src = "1.png" size = "600px">
+
+### Практичне завдання №2. *Етап Define. Створення User Persona (середній рівень)
+
+**1. Розглянути додаткові навчальні матеріали та приклади:**
+   
+- [User Persona ≠ Олег 30 років | Типи UX персон | 15 урок](https://www.youtube.com/watch?v=PLfy1FAMDYI) (рекомендовано усім)
+- [How to Create A User Persona in 2026](https://www.youtube.com/watch?v=HkKf3Mhszww)
+- [How To Make Persona In FigJam (2026 Guide)](https://www.youtube.com/watch?v=O8nkIOqyAsA) (рекомендовано усім)
+- [How to Create a User Persona in Figma](https://www.youtube.com/watch?v=3V4g-FB_Olg)
+
+**2. У FigJam створити дві User Persona для вашого продукту. Коротко опишіть їх.**
+
+<img src = "2.png" size = "600px">
