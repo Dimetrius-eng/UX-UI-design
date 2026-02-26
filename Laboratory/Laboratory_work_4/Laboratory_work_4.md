@@ -129,5 +129,5 @@ CJM дозволяє побачити "картину в цілому" і зна
 
 ## Conclusions
 
-&nbsp;&nbsp;&nbsp;In this laboratory work, I focused on the first "diamond" of the Double Diamond model: the Empathy and Define stages. By mastering UX research methods like competitor analysis and user interviewing, I learned that a successful product starts with a deep understanding of the user's "pain" rather than visual sketches.
+&nbsp;&nbsp;&nbsp;In this laboratory work, I focused on the first "diamond" of the Double Diamond model: the Empathy and Define stages. By mastering UX research methods like competitor analysis and user interviewing, I learned that a successful product starts with a deep understanding of the user's "pain" rather than visual sketches.   
 &nbsp;&nbsp;&nbsp;The creation of User Stories and Personas allowed me to transform raw research data into human-centered requirements, ensuring that every feature provides real value to the target audience. Furthermore, building a Customer Journey Map provided a clear visualization of where users might struggle, highlighting critical opportunities for improvement. Ultimately, I realized that analyzing actual behavior — what people do — is far more effective for making product decisions than relying on stated opinions. This work has laid a solid foundation for the subsequent stages of interaction design and prototyping.
