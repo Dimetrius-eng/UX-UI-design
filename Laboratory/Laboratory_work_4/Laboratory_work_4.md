@@ -112,3 +112,22 @@ _Словник базових понять англ. мовою_
 Створена карта — це візуальна схема, яка крок за кроком описує взаємодію користувача з продуктом у межах сценарію «Досвід соціальних тренувань». До ключових аспектів карти належить структура шляху, яка охоплює повний цикл взаємодії — від виникнення потреби в активності до отримання соціального визнання за результат. Головний акцент зроблено на «точках болю» (Pain Points), таких як перевантажений онбординг та складність керування смартфоном під час тренування. Карта слугує інструментом для прийняття продуктових рішень, пропонуючи впровадження голосових команд та спрощеного входу для покращення досвіду. Також карта відображає зміну внутрішнього стану користувача — від початкового хвилювання та роздратування на етапі реєстрації до піднесення й радості після завершення вправ.
 
 [Посилання на дошку FigJam](https://www.figma.com/board/aQcOWxeTycWDsSxUdgyEIL/Untitled?node-id=0-1&p=f&t=cMjF8zOCyBOItc6b-0)
+
+### Контрольні запитання
+
+**1. Чому User Story обов'язково має закінчуватися частиною «щоб [користь]»?**
+
+Ця частина є найважливішою, оскільки вона фокусує команду на цінності для користувача, а не просто на технічній реалізації функції. Без розуміння користі розробники можуть створити функцію, яка працює технічно, але не вирішує жодної реальної проблеми.
+
+**2.** ***Чому UX-дизайнер має досліджувати саме поведінку (що людина робить), а не її думки (що вона каже, що зробила б)?**
+
+Люди часто кажуть те, що від них хочуть почути, або самі не усвідомлюють своїх звичок. Дослідження поведінки (що людина робить) дає об'єктивні дані про те, де вона насправді зупиняється чи робить помилки, тоді як думки є суб'єктивними та часто помилковими.
+
+**3.** ****Як Customer Journey Map допомагає команді приймати продуктові рішення?**
+
+CJM дозволяє побачити "картину в цілому" і знайти конкретні етапи, де користувачі найчастіше покидають додаток. Це допомагає команді пріоритезувати задачі: наприклад, замість додавання нових фільтрів (що хочуть розробники), виправити складний процес оплати (де користувачі відчувають біль).
+
+## Conclusions
+
+&nbsp;&nbsp;&nbsp;In this laboratory work, I focused on the first "diamond" of the Double Diamond model: the Empathy and Define stages. By mastering UX research methods like competitor analysis and user interviewing, I learned that a successful product starts with a deep understanding of the user's "pain" rather than visual sketches.
+&nbsp;&nbsp;&nbsp;The creation of User Stories and Personas allowed me to transform raw research data into human-centered requirements, ensuring that every feature provides real value to the target audience. Furthermore, building a Customer Journey Map provided a clear visualization of where users might struggle, highlighting critical opportunities for improvement. Ultimately, I realized that analyzing actual behavior — what people do — is far more effective for making product decisions than relying on stated opinions. This work has laid a solid foundation for the subsequent stages of interaction design and prototyping.
