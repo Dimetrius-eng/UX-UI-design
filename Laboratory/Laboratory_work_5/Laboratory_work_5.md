@@ -47,8 +47,7 @@
 
 ### Практичне завдання №1. Побудова логіки (User Flow / Task Flow) (базовий рівень)
 
-**1. Розглянути додаткові навчальні матеріали та приклади:**
-
+**1. Розглянути додаткові навчальні матеріали та приклади:**   
 - [Як створювати ефективні USER FLOW в UX-дизайні | 22 урок курсу UX](https://www.youtube.com/watch?v=SL2MLfsZQn0&t=85s)
 - [How To Make User Flow In Figma (Easiest Way) (2026 Guide)](https://www.youtube.com/watch?v=sVEE6JLHBw8)
 - [how to make user flow in figma](https://www.youtube.com/watch?v=nCohgD-If5Q)
@@ -58,5 +57,27 @@
 - Позначте початок і кінець (овали).  
 - Відобразіть екрани (прямокутники) та дії користувача (стрілки з підписами).  
 - Обов’язково додайте хоча б одну точку прийняття рішення (ромб), наприклад: «Чи ввів користувач пароль вірно?» → ТАК/НІ.
+
+[Посилання на дошку FigJam](https://www.figma.com/board/aQcOWxeTycWDsSxUdgyEIL/Untitled?node-id=0-1&p=f&t=cMjF8zOCyBOItc6b-0)
+
+### Практичне завдання №2. *Створення Low-fidelity вайрфреймів (базовий рівень)
+
+**1. Розглянути додаткові навчальні матеріали та приклади:**
+- [СЕКРЕТИ ЕФЕКТИВНОГО ПРОТОТИПУВАННЯ В UX: який прототип обрати та як створити | 23 урок UX](https://www.youtube.com/watch?v=tCEOZYR9O6E)
+- [How to Wireframe in Figma in 2026](https://www.youtube.com/watch?v=qWIdforZ9x0)(дуже круте відео)
+- [Figma Wireframe in 7 Minutes for Beginners in 2025 (Figma Tutorial)](https://www.youtube.com/watch?v=UEsrr6FmZ-U)
+- [Design a Low Fidelity Prototype in Figma](https://www.youtube.com/playlist?list=PLfA4SdpraCK0WsYcyCh8r39YpbZY3XpLC)(можна взяти відпрацювати цей дизайн покроково, хто не має якогось свого творчого бажання придумувати якийсь свій дизайн)
+
+**2. Створіть 3–5 екранів вашого додатку/сервісу у форматі Low-fi Wireframes (використовуйте сірі прямокутники, лінії та плейсхолдери для фото — перекреслені бокси).**
+
+**3. Обов’язкові екрани:**  
+- Головний екран.  
+- Екран виконання основної функції (згідно з вашою ідеєю).  
+- Екран успішного завершення дії (Success State).
+  
+**4. Дослідіть питання, які є рекомендації щодо створення  вайрфреймів з Layout Grid для різних пристроїв? Як ви їх врахували у своєму дизайні?**
+
+
+ 
 
 
