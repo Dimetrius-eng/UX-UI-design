@@ -33,7 +33,6 @@
 </blockquote>
 
 **<span>3.Познайомтесь з поняттям Layout Grid:</span>**  
-
 - [https://www.geeksforgeeks.org/css/grids-in-figma/](https://www.geeksforgeeks.org/css/grids-in-figma/)  
 - [Master Responsive Grids (Rows & Columns) in Figma](https://www.youtube.com/watch?v=sybtdc4dYzE)  
 - [Figma for Edu: Layout grids](https://www.youtube.com/watch?v=HA2QoXu2K_Q)  
@@ -43,4 +42,21 @@
 **<span> Підготувати в електронному вигляді початковий варіант звіту:</span>**    
 <span>- Титульний аркуш, тема та мета роботи</span>   
 <span>- Відповіді до завдань для попередньої підготовки</span>
+
+## Хід роботи
+
+### Практичне завдання №1. Побудова логіки (User Flow / Task Flow) (базовий рівень)
+
+**1. Розглянути додаткові навчальні матеріали та приклади:**
+
+- [Як створювати ефективні USER FLOW в UX-дизайні | 22 урок курсу UX](https://www.youtube.com/watch?v=SL2MLfsZQn0&t=85s)
+- [How To Make User Flow In Figma (Easiest Way) (2026 Guide)](https://www.youtube.com/watch?v=sVEE6JLHBw8)
+- [how to make user flow in figma](https://www.youtube.com/watch?v=nCohgD-If5Q)
+- [How To Use FigJam To Create User Flow (2026 Guide)](https://www.youtube.com/watch?v=kYa1wiYI_oI)
+
+**2. На основі ваших User Stories та CJM (див. ЛР №4) у FigJam або Figma розробіть схему руху користувача для основного сценарію (наприклад, реєстрація + виконання цільової дії):**  
+- Позначте початок і кінець (овали).  
+- Відобразіть екрани (прямокутники) та дії користувача (стрілки з підписами).  
+- Обов’язково додайте хоча б одну точку прийняття рішення (ромб), наприклад: «Чи ввів користувач пароль вірно?» → ТАК/НІ.
+
 
