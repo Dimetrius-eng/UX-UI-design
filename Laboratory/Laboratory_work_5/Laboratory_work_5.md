@@ -80,7 +80,9 @@ _Словник базових понять англ. мовою_
 - Відобразіть екрани (прямокутники) та дії користувача (стрілки з підписами).  
 - Обов’язково додайте хоча б одну точку прийняття рішення (ромб), наприклад: «Чи ввів користувач пароль вірно?» → ТАК/НІ.
 
-[Посилання на дошку FigJam](https://www.figma.com/board/aQcOWxeTycWDsSxUdgyEIL/Untitled?node-id=0-1&p=f&t=cMjF8zOCyBOItc6b-0)
+<img src = "2_.png" width = "1100">
+
+[Посилання на дошку FigJam](https://www.figma.com/board/SxHHTWcIkWdaEROXZ1lcna/User-Flow-Template?node-id=0-1&p=f&t=fZyifx0yGlwrIo3K-0)
 
 ### Практичне завдання №2. *Створення Low-fidelity вайрфреймів (базовий рівень)
 
