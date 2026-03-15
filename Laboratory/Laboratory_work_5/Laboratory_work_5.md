@@ -169,6 +169,14 @@ _Словник базових понять англ. мовою_
 - Налаштуйте стан «Loading» або перехід для точки прийняття рішення.  
 - Запустіть режим презентації та перевірте, чи може стороння людина пройти шлях від початку до кінця.
 
+На завершальному етапі було створено інтерактивний прототип, який демонструє логіку роботи застосунку та дозволяє протестувати користувацький досвід (UX) ще до початку розробки.  
+1. Налаштування зв’язків (Interactions). У вкладці Prototype було встановлено логічні переходи між усіма екранами. Тригер "On Click" використано для всіх кнопок. Обрано тип дії «Navigate to», що забезпечує плавний перехід між фреймами. Для переходів обрано
+або «Smart Animate», щоб створити відчуття нативного мобільного додатка.  
+2. Реалізація точки прийняття рішення та стану «Loading». Для імітації технічної перевірки даних було впроваджено стан завантаження. Тригер «After Delay» застосовується між екраном головним екраном та обраним курсом, де додано проміжний фрейм «Loading».  
+3. Тестування та перевірка «Happy Path». Запуск режиму презентації дозволив перевірити «Happy Path» — ідеальний шлях користувача від першого відкриття до отримання Success State. В результаті перевірено відсутність «глухих кутів» (dead ends). Користувач може безперешкодно вибрати програму «Minimalizm», виконати вправу та побачити вітальне повідомлення про успіх.
+
+<img src = "16.gif" width = "1100">
+
 ### Контрольні запитання
 
 **1. Який елемент вайрфрейму вказує на те, що тут буде зображення?**
@@ -195,8 +203,8 @@ _Словник базових понять англ. мовою_
 
 ## Conclusions
 
-&nbsp;&nbsp;&nbsp;During the first stages of this laboratory work, I learned how to transform user research results, such as User Stories and CJM, into a clear logical structure called User Flow. This step was essential for visualizing the main path of the fitness application user.  
-&nbsp;&nbsp;&nbsp;I also practiced creating Low-fidelity wireframes in Figma. By using the Layout Grid system (4 columns for mobile) and the 8-point system, I built a stable and consistent "skeleton" of the product. Using simple grey shapes and placeholders instead of detailed design helped me focus purely on the information hierarchy and usability. This foundation is critical for developing a functional and user-friendly interface.
+&nbsp;&nbsp;&nbsp;In this laboratory work, I completed the full cycle of UX/UI structure design. Starting with User Flow, I defined the logic of the application, including critical decision points and error handling.  
+&nbsp;&nbsp;&nbsp;By creating Low-fidelity and then High-fidelity wireframes, I established a strong visual hierarchy based on a 12px typography system and a 4-column Layout Grid. Finally, the interactive prototype in Figma proved that the selected design solutions are effective, and the "Happy Path" is intuitive for the end-user. This project serves as a ready-to-use technical foundation for the visual UI styling phase.
 
 
  
