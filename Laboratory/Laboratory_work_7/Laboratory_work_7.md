@@ -86,19 +86,17 @@ _Словник базових понять англ. мовою_
 
 - Знайдіть 3 різні набори іконок для вашого проєкту та визначте їх стиль (outline, filled тощо). Поясніть, який стиль найбільше підходить вашому UI та чому;
 
-<blockquote>
+<img width="720" height="650" alt="image" src="https://github.com/user-attachments/assets/2d856344-c971-41c2-b2c5-f448403f34b6" />
 
-
-</blockquote>
+<br>
 
 - Визначте, які іконки вам необхідні для реалізації функціоналу інтерфейсу (мінімум 8–10). Поясніть за які дії вони будуть відповідати.
 
-<blockquote>
+<img width="561" height="781" alt="image" src="https://github.com/user-attachments/assets/b2bc3936-5f81-4b15-b9e2-49b56467ddc7" />
 
+<br>
 
-</blockquote>
-
-[Посилання на дошку FigJam]()
+[Посилання на дошку FigJam](https://www.figma.com/board/7nFgOjmEUCZi8q7SBxIPbS/Icons?node-id=0-1&p=f&t=SdzJhno9VvkuKjsA-0)
 
 ### Практичне завдання №2. *Підбір та стилізація іконок (Figma) (середній рівень)
 
