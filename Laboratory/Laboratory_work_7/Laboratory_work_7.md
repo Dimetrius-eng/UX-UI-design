@@ -149,6 +149,20 @@ _Словник базових понять англ. мовою_
 
 </blockquote>
 
+- Варіант Б (через AI) - згенерувати ідею іконки через Figma AI або інший інструмент (розпишіть, які при цьому використовували промпти), доопрацювати її вручну у Figma (опишіть, що було змінено вручну).
+
+<blockquote>
+
+Промпт:   
+
+_Minimalist fitness app logo, abstract geometric shape combining a heavy weight and a heartbeat line, flat vector style, bold 2px lines, monochromatic, 24x24 grid proportion, modern tech aesthetic._
+
+Результат: 
+ 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/b41edc7b-29ed-4283-813e-9b03555d6aaf" />
+ 
+</blockquote>
+
 **3. Адаптуйте створені “фірмові” іконки під свій UI Kit (товщина ліній, кольори, пропорції мають відповідати всім вже існуючим елементам дизайну).**
 
 [Посилання на дошку Figma](https://www.figma.com/design/liRExf2riIQQSt2QiOps7l/Untitled?node-id=0-1&p=f&t=PMEqEJeiVVqHUuBF-0)
