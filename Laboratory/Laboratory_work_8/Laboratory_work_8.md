@@ -60,7 +60,7 @@ _Словник базових понять англ. мовою_
 - [Checkbox vs radio button: when to use which in UI design - Justinmind](https://www.justinmind.com/ui-design/radio-button-vs-checkbox)
 - [Інпути в UI Kit  | 12 урок | Курс "UI Kit"](https://youtu.be/SvKmjTENmeU?si=ClcQWr4cHTfkdVWJ)
 - [Expertly Crafted Text Fields for Optimized Forms - Input UI Design](https://www.setproduct.com/blog/input-ui-design)
-- [Text fields - Material Design](https://m2.material.io/components/text-fields#outlined-text-field
+- [Text fields - Material Design](https://m2.material.io/components/text-fields#outlined-text-field)
 
 **2. Дослідіть і зафіксуйте у FigJam:** 
 
